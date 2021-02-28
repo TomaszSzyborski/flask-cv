@@ -9,3 +9,5 @@ Wybór padł na Font family Segoe UI ze względu na bezszeryfowość co ułatwia
 
 Bootstrap jest naturalnym wyborem ze względu na działanie out-of-box i łatwą modyfikację stylingów.
 
+Poszczególne
+
