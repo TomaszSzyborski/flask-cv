@@ -1,0 +1,362 @@
+# Profile section
+profile:
+  first_name: Tomasz
+  last_name: Szyborski
+  # picture: https://<some_address_to_hosted_pic>   # Hosted picture
+  picture: static/img/photo.jpg  # Local picture
+  contact:
+    address_one: Lublin
+    address_two:
+    phone: +48509808798
+  email: tomasz.szyborski@gmail.com
+  description: >
+    Experienced QA Architect and QA Tech Lead with a demonstrated history of working in financial and medical projects - web and mobile. Skilled in Quality Assurance, Test Automation with Python and Java, Security Testing. Strong professional possessing ISTQB Full Advanced (Test Manager, Technical Test Analyst, Test Analyst certificates) as well as ISTQB Agile Extension and high interest in Machine Learning and Data Analysis with a Deep Learning Foundations Nanodegree focused in Deep Learning from Udacity, and set of Data Analyst, Data Scientist and Data Engineer certificates from DataQuest.io
+
+    Constant learning, never settle!
+
+
+# Social section
+social:
+  website: https://none;)
+  github: https://github.com/TomaszSzyborski/
+  twitter: https://twitter.com/tomaszszyborski/
+  linkedin: https://www.linkedin.com/in/tomaszszyborski/
+  facebook:
+
+
+# Experience section
+experience:
+  item0:
+    position: QA Architect / Senior Test Development Engineer
+    company: Sii sp. z o.o.
+    from: September 2020
+    to: Present
+    description: >
+      Designing Test Automation Architecture for large scale projects for textile/footwear client with Java11, RestAssured and Cucumber for
+      2000+ scenarios, Vaadin based applications + microservices.
+
+      Creating microservices in Python and Flask.
+      Creating microservices in Groovy and Micronaut.
+    link: https://sii.pl/
+  item1:
+    position: QA Team Lead - R&D Automation Leader
+    company: Billennium S.A.
+    from: February 2019
+    to: September 2020
+    description: >
+      Leading team of 18 Test Automation Engineers using various test tools.
+      Responsible for technical recruitment (local and offshore) and internal training.
+
+      Performing Test Automation Audits for the clients' projects.
+
+      Automation of financial application using:
+      - SerenityBDD and Java8
+
+      Automation of financial application using:
+      - Selenium with Geb
+      - RestAssured with Java11 and Groovy
+      - Groovy with Spock
+      - 1 WebApp: React fontend / Java backend
+      - 2 WebApp: Vaadin frontend / Java Backend
+
+      Technical Leading (including coaching and frameworks preparation) in automation testing in Billennium products:
+      - Paperless
+      - Paperless Retail
+      -> using Selenide/Geb/Spock/Groovy/Cucumber/RestAssured stack
+
+      Public speaker in Development/Testing IT conferences.
+
+      Member of Billennium Inspiration Team
+  item2:
+    position: QA Automation Engineer
+    company: Billennium S.A.
+    from: April 2018
+    to: August 2020
+    description: >
+      Test Automation in:
+      - FluentLenium with Java
+      - Selenide with Java/groovy
+      - RestAssured with Java/groovy
+
+
+      16.10.2018 talk at LublinIT #5 conference - "Machine Learning i Python - od czego zacząć?"
+      - Member of Billennium Inspiration Team
+      Responsible for creating open-source initiative within the company.
+      Public talks @ technical conferences.
+
+      Responsible for preparing POC regarding process driven automation framework using Cucumber, Selenide, RestAssured and Java.
+    link: http://billennium.com/
+  item3:
+    position: Java and Python Teacher
+    company: InfoShare Academy
+    from: November 2017
+    to: July 2019
+    description: >
+      Teaching Python, Developer Tools in Linux, Test Automation in Java, Continous Integration
+    link: https://infoshareacademy.com/
+  item4:
+    position: Tech Lead QA Engineer / Senior Software Engineer
+    company: Codete GmbH
+    from: August 2016
+    to: March 2018
+    description: >
+      Healthcare project:
+      Creating automated tests for iOS apps in Appium + Java.
+      Creating automated tests with Selenium + Java.
+      Manual testing - UX, UI, Web apps, iOS apps.
+      Security testing of WebApp.
+      Improving the Test Automation testing process by introducing RobotFramework (REST API testing + Selenium)
+      Handling CI with Jenkins
+
+      Fintech project:
+      Creating Automated Tests with Java + FluentLenium framework for ReactJS frontend
+      Test and project management consultations
+      Writing and executing manual and automated UATs
+      Exploratory testing
+      Security testing
+    link: https://codete.com/
+  item5:
+    position: Test Automation Engineer
+    company: Sii Sp. z o.o.
+    from: August 2015
+    to: July 2016
+    description: >
+      Test automation – Soap WebServices, Oracle 11g Stored Procedures, Selenium WebDriver in RobotFramework
+      Performance testing using Gatling tool
+      Manual testing Web Services in SoapUI as well as Oracle Stored Procedures, Functional Specification, High Level Design and Test Design reviews
+      Extending RobotFramework libraries in Python
+      Test Case creation – basing on FS and HLD as well as performing exploratory testing
+      Test Runs creation and amendments in TestRail
+      Handling CI with Jenkins and TeamCity
+      Frontend, API and backend testing - manual and automation.
+      Insurance webapp and backend system testing
+    link: https://sii.pl/
+  item6:
+    position: Test Engineer
+    company: Sii Sp. z o.o.
+    from: June 2014
+    to: September 2015
+    description: >
+      - Manual testing
+      - Responsible for QA team in Agile environment (QA Lead)
+      - WebApp vulnerability testing using ZAP Framework
+      - Test Automation (Java+Selenium, Javascript+Protractor/Cucumber - e2e testing, Python - API testing)
+      - Preparing Test Documentation (compliance to 829IEEE)
+      - Creating use cases, test cases and test strategies
+  link: https://mobica.com/
+
+
+
+# Education section
+education:
+  item1:
+    institution: University of Economy and Innovation in Lublin
+    program: Computer Science - Master degree
+    description: Master's majoring CyberSecurity.
+    from: October 2020
+    to: planned June 2020
+  item2:
+    institution: University of Economy and Innovation in Lublin
+    program: Transportation - Master degree
+    description: Major in Computer Science systems in transportation >
+      Dissertation on Privacy and Anonymity in Web considering transport layer - VPN win TOR and TOR in VPN
+    from: February 2015
+    to: July 2016
+  item3:
+    institution: University of Economy and Innovation in Lublin
+    program: Computer Science - Bachelor's degree
+    description: Major in Systems and Networking >
+      Engineer Thesis - Software Quality Assurance from business perspective - Web
+      Applications Penetration Testing using Kali Linux
+    from: June 2017
+    to: August 2017
+  item4:
+    institution: University of Enterprise and Administration in Lublin
+    program: Management - Bachelor's degree
+    description: Major in Human Resource / Social Potential
+    from: October 2008
+    to: June 2011
+
+
+
+# Community section:
+community:
+  item0:
+    institution: Mensa Polska
+    program: Member
+    description: "Member of high IQ society - top 2% of human population"
+    from: January 2014
+    to: February 2016
+    link: https://www.mensa.org.pl/
+  item2:
+    institution: Triple Nine Society
+    program: Memebr
+    description: "Member of high IQ society, top 0.1% of human population"
+    from: January 2016
+    to: Present
+    link: https://www.triplenine.org/
+  item3:
+    institution: Triple Nine Society
+    program: Memebr
+    description: "United Sigma Intelligence Association top 0.3% IQ of human population"
+    from: January 2021
+    to: Present
+    link: https://usiassociation.org/
+
+
+# Skills section
+tools:
+  # Consider that the following are fa icons:
+  #   https://fontawesome.com/icons?d=gallery&s=brands
+  - python
+  - java
+  - aws
+  - github
+  - gitlab
+  - bitbucket
+  - slack
+  - jira
+  - markdown
+  - html5
+  - bootstrap
+extra_skills:
+  - Selenium Webdriver, Selenide, Selene
+  - Web scraping and web automation
+  - APIs and web development
+  - Machine learning and deep learning
+  - Process automation with Python
+
+
+# Talks and workshops section
+workshops:
+  item0:
+    event: "LubQA"
+    workshop: "Dojrzała automatyzacja (i nie tylko) - od unitów po procesy,czyli jak, gdzie, kiedy i czy? ,November 2019"
+    material:
+    link: https://www.facebook.com/LubQA
+  item1:
+    event: Lubelskie Dni Informatyki
+    workshop: "TDD and TDD - or Testers Deliver Disaster and Testing During Deployment
+      How-to and for-the-love-of-god-how-not-to examples in agile (and not-only-agile) projects.
+      Roles and responsibilities of Quality Assurance Engineer and Tester in processes, test automation and security.
+      April 2019"
+    material:
+    link: https://ldi.org.pl/
+  item2:
+    event: "Lublin IT #5"
+    workshop: "Machine Learning and Python - where to start? October 2018"
+    material:
+    link: https://lublinit.com/
+  item3:
+    event: LubQA
+    workshop: "Presentation about Security Testing:
+                 >>> wut #TODO
+                 ... while(testing):
+                 ... xss + phish
+                 >>> für da winz
+                 or testing web and protein interfaces in practice.
+                 June 2018"
+    material:
+    link: https://www.facebook.com/LubQA
+  item4:
+    event: CodeteCon
+    workshop: How to wreak havoc with ease. A tale of Cross Site Scripting And Phishing,
+      December 2017
+    material:
+    link:
+  item5:
+    event: CodeteCon
+    workshop: Frontend Security Testing with a Pinch of Phishing,
+      October 2017
+    material:
+    link:
+  item6:
+    event: Lublin IT
+    workshop: Import Antigravity - a handful of words about Python. December 2015.
+    material:
+    link: https://lublinit.com/
+  item7:
+    event: CheckIT
+    workshop: "Put the fun back to QA! , December 2015."
+    material:
+    link:
+  item8:
+    event: „Iberic Conference on Innovation in Education using ICT” IeTIC2013 Universitade de Salamanca
+    workshop: Security and vulnerabilities of wireless networks. October 2013.
+    material:
+    link:
+  item9:
+    event: „Iberic Conference on Innovation in Education using ICT” IeTIC2013 Universitade de Salamanca
+    workshop: Variety in graphical user interfaces in Linux - increasing productivity while decreasing resource usage. October 2013.
+    material:
+    link:
+  item10:
+    event: „Iberic Conference on Innovation in Education using ICT” IeTIC2013 Universitade de Salamanca
+    workshop: Security and vulnerabilities of wireless networks. October 2013.
+    material:
+    link:
+  item11:
+    event: „Iberic Conference on Innovation in Education using ICT” IeTIC2013 Universitade de Salamanca
+    workshop: Establishing VoIP telephony using opensource software. October 2013.
+    material:
+    link:
+  item12:
+    event: Konferencja Naukowa KNIT2014 WSEI
+    workshop: Data transmission and monitoring solutions in Smart Grids using industrial Ethernet switches, October 2014
+    material:
+    link:
+  item13:
+    event: Iberic Conference on Innovation in Education using ICT Politechnico de Braganca
+    workshop: Virtualizations of laboratory infrastructure
+    material:
+    link:
+
+
+# Certifications and awards section
+awards:
+  - "Securitum - FrontEnd Application Security"
+  - "Securitum - Web Application Security"
+  - "Securitum - Advanced Web Application Security"
+  - "Udacity - Artificial Intelligence Nanodegree"
+  - "Udacity - Deep Learning Nanodegree Foundation"
+  - "DataQuest.io - Data Scientist"
+  - "DataQuest.io - Data Analyst"
+  - "DataQuest.io - Data Engineer"
+  - "ISTQB Full Advanced"
+  - "ISTQB Advanced - Test Automation Engineer"
+  - "ISTQB Advanced - Technical Test Analyst"
+  - "ISTQB Advanced - Test Analyst"
+  - "ISTQB Advanced - Test Manager"
+  - "ISTQB - Agile Tester Extension"
+  - "ISTQB - Foundation"
+  - "EITCI - EITCA Information Technology Security Programme"
+  - "Oracle Java Associate Certified Programmer, JAVA SE7 Programmer"
+  - "BerkeleyX - Principles of Written English - College Writing - edx.org online course"
+  - "CCNA 4: WAN Technologies – College of Economy and Innovation in Lublin – training"
+  - "CCNA 3: Switching Basics and Intermediate Routing – College of Economy and Innovation in Lublin – training"
+  - "CCNA 2: Routers and Routing Basics – College of Economy and Innovation in Lublin- training"
+  - "CCNA 1: Networking Basics – College of Economy and Innovation in Lublin – training"
+  - "edX.org UT.6.01x Embedded Systems - Shape the World – online course"
+  - "edX.org EPFLxBIO465x Neuronal Dynamics – online course"
+  - "HarvardX - GSE1x Unlocking the Immunity to Change: A New Approach to Personal Improvement - edx.org online course"
+  - "HarvardX - MCB80.1x Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron - edx.org online course"
+  - "ISO:9001 – Inner Auditor course - College of Enterprise and Administration in Lublin"
+  - "Microsoft Certified Professional"
+  - "Microsoft Technology Associate: Software Development Fundamentals (C#)"
+  - "Microsoft Technology Associate: Web Development Fundamentals (C#)"
+  - "Massachusetts Institute of Technology X- MITx 6.00.1x Introduction to Computer Science and Programming – edx.org online course"
+  - "Massachusetts Institute of Technology X - MITx 15.390x Entrepreneurship 101: Who is your customer? - edx.org online course"
+  - "Niebezpiecznik.pl - Attacking and Defending WebApplications"
+  - "Niebezpiecznik.pl - Training for QA: security testing"
+  - "Rice University - An Introduction to Interactive Programming in Python – coursera.org online course"
+  - "University of Edinburgh - Artificial Intelligence Planning – coursera.org online course (Certificate with Distinction)"
+  - "University of New Mexico - Web Application Architectures - coursera.org online course (Certificate with Distinction)"
+  - "University of Michigan - Programming for Everybody (Python) - coursera.org online course (Certificate with Distinction)"
+  - "University of Texas - UTAustinX  UT.6.01x Embedded Systems - Shape the World - edx.org online course"
+  - "University of Washington - Computer Networks – coursera.org online course"
+  - "University of Washington - R programming – coursera.org online course (Certificate with Distinction)"
+  - "Udemy - The Complete Apache Groovy Developer Course by Dan Vega"
+  - "Udemy - Complete Java Masterclass by Tim Buchalka"
+  - "319th in Hacky Easter 2016 honor issuer Hacking-lab.com"
+  - "1st place in Poetry Contest at University of Economy and Innovation in Lublin Oct 2015  honor issuer University of Economy and Innovation in Lublin"
+  - "1st place in http://testingchallenges.thetestingmap.org/hall_of_fame.php"
