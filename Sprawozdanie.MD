@@ -9,5 +9,9 @@ Wybór padł na Font family Segoe UI ze względu na bezszeryfowość co ułatwia
 
 Bootstrap jest naturalnym wyborem ze względu na działanie out-of-box i łatwą modyfikację stylingów.
 
-Poszczególne
+Poszczególne sekcje opisują doświadczenie, edukację itd.
+
+za serwowane dane odpowiada plik `_config.yaml` który jest "human readable"
+zatem osoba nie znająca programowania może wykonać plik zawierający konkretne informacje
+by użyć go w niniejszej aplikacji.
 
